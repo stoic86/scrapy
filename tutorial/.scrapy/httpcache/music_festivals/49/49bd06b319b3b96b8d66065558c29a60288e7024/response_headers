@@ -1,0 +1,13 @@
+Server: nginx
+Date: Wed, 03 Oct 2018 17:47:11 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.musicfestivalwizard.com/wp-json/>; rel="https://api.w.org/"
+Wpe-Backend: apache
+X-Wpe-Loopback-Upstream-Addr: 127.0.0.1:6789
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: MISS
+X-Pass-Why: 
+X-Cache-Group: bot
+X-Type: default
+Content-Encoding: gzip

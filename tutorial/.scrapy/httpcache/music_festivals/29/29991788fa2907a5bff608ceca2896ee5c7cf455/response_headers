@@ -1,0 +1,14 @@
+Server: nginx
+Date: Wed, 03 Oct 2018 17:48:21 GMT
+Content-Type: text/html; charset=UTF-8
+X-Pingback: https://www.musicfestivalwizard.com/xmlrpc.php
+Link: <https://www.musicfestivalwizard.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.musicfestivalwizard.com/?p=31339>; rel=shortlink
+Wpe-Backend: apache
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 3
+X-Pass-Why: 
+X-Cache-Group: bot
+X-Type: default
+Content-Encoding: gzip
